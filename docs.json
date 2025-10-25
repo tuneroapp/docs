@@ -47,9 +47,8 @@
           },
           {
            "group": "Roadmap",
-           "icon": "map",
            "pages": [
-              "roadmap/map"
+              "roadmap"
             ]
           }
         ]

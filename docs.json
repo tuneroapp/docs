@@ -71,13 +71,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Para Entusiastas",
+          "href": "https://tunero.com.br/club",
+          "icon": "book-open-cover"
+        },
+          {
+          "anchor": "Para Empresas",
+          "href": "https://tunero.com.br/business",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://blog.tunero.com.br",
           "icon": "newspaper"
         }
       ]

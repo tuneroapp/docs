@@ -23,7 +23,7 @@
           {
             "group": "Vitrine Digital",
             "pages": [
-              "vitrine-1",
+              "vitrine/index",
               "essentials/navigation"
             ]
           },

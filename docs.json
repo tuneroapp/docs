@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Tunero Doc",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/Business_Tunero2.png",
   "navigation": {
     "tabs": [
       {
@@ -73,12 +73,12 @@
         {
           "anchor": "Para Entusiastas",
           "href": "https://tunero.com.br/club",
-          "icon": "trophy"
+          "icon": "car"
         },
           {
           "anchor": "Para Empresas",
           "href": "https://tunero.com.br/business",
-          "icon": "book-open-cover"
+          "icon": "handshake"
         },
         {
           "anchor": "Blog",

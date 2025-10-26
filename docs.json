@@ -24,7 +24,9 @@
             "group": "Vitrine Digital",
             "pages": [
               "vitrine/comece",
-              "vitrine/passo01",
+              "vitrine/01criando",
+              "vitrine/02editarinfor",
+              "vitrine/03adc-service",
               "essentials/navigation"
             ]
           },
